@@ -41,7 +41,7 @@ body {
 }
 
 /* Sticky navbar - toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). The sticky value is not supported in IE or Edge 15 and earlier versions. However, for these versions the navbar will inherit default position */
-.navbar {
+.navbarUMA {
   overflow: hidden;
   background-color: #333;
   position: sticky;
@@ -50,7 +50,7 @@ body {
 }
 
 /* Style the navigation bar links */
-.navbar uma {
+.navbarUMA uma {
   float: left;
   display: block;
   color: white;
@@ -60,7 +60,7 @@ body {
 }
 
 /* Right-aligned link */
-.navbar uma.right {
+.navbarUMA uma.right {
   float: right;
 }
 
@@ -71,7 +71,7 @@ body {
 }
 
 /* Active/current link */
-.navbar uma.active {
+.navbarUMA uma.active {
   background-color: #666;
   color: white;
 }
