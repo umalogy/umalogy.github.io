@@ -50,7 +50,7 @@ body {
 }
 
 /* Style the navigation bar links */
-.navbarUMA uma {
+.navbarUMA a {
   float: left;
   display: block;
   color: white;
@@ -60,18 +60,18 @@ body {
 }
 
 /* Right-aligned link */
-.navbarUMA uma.right {
+.navbarUMA a.right {
   float: right;
 }
 
 /* Change color on hover */
-.navbarUMA uma:hover {
+.navbarUMA a:hover {
   background-color: #ddd;
   color: black;
 }
 
 /* Active/current link */
-.navbarUMA uma.active {
+.navbarUMA a.active {
   background-color: #666;
   color: white;
 }
