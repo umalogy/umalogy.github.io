@@ -65,7 +65,7 @@ body {
 }
 
 /* Change color on hover */
-.navbar uma:hover {
+.navbarUMA uma:hover {
   background-color: #ddd;
   color: black;
 }
