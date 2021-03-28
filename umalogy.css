@@ -40,7 +40,6 @@ body {
   text-shadow: 5px 5px #ff1f8f,10px 10px #000000;
 }
 
-/* Sticky navbar - toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). The sticky value is not supported in IE or Edge 15 and earlier versions. However, for these versions the navbar will inherit default position */
 .navbarUMA {
   overflow: hidden;
   background-color: #333;
@@ -108,7 +107,7 @@ body {
 }
 
 @media screen and (max-width: 400px) {
-  .navbar a {
+  .navbarUMA a {
     float: none;
     width: 100%;
   }
