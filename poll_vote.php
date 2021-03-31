@@ -24,7 +24,7 @@ fputs($fp,$insertvote);
 fclose($fp);
 ?>
 
-<h2>Result:</h2>
+<h3>Result:</h3>
 <table>
 <tr>
 <td>Yes:</td>
