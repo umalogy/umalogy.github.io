@@ -108,11 +108,14 @@ body {
   }
 }
 
+.articleU {
+    padding: 20px;
+}
+    
 .articleU a {
     text-align: left;
     width: 80%;
     margin: 0;
-    padding: 20px;
 }
 
 .articleU a:hover {
