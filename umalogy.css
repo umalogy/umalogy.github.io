@@ -108,6 +108,17 @@ body {
   }
 }
 
+.articleU a {
+    text-align: left;
+    width: 80%;
+    margin: 0;
+    padding: 20px;
+}
+
+.articleU a:hover {
+  color: blue;
+}
+
 /* Column container */
 .row {  
   display: -ms-flexbox; /* IE10 */
