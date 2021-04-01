@@ -114,9 +114,9 @@ body {
     
 .articleU a {
     text-align: left;
-    width: 80%;
-    margin: 0;
-    font-size: 20px;
+    width: 100%;
+    margin: 20;
+    font-size: 40px;
 }
 
 .articleU a:hover {
